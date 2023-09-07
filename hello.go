@@ -1,6 +1,6 @@
-package ivy
+package go_hello
 import "fmt"
 
-func print_ivy() {
+func Print_ivy() {
     fmt.Println("hello ivy")
 }
