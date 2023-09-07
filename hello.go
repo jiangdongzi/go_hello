@@ -1,4 +1,4 @@
-package go_hello
+//package go_hello
 import "fmt"
 
 func Print_ivy() {
